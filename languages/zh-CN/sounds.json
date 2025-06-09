@@ -1,0 +1,7 @@
+{
+    "sounds": "音效",
+    "notification-sound": "通知音效",
+    "incoming-message-sound": "收到消息时的音效",
+    "outgoing-message-sound": "发出消息时的音效",
+    "no-sound": "无音效"
+}
